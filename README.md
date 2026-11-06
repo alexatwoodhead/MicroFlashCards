@@ -119,7 +119,7 @@ How hard was it to remember?
   4. Fairly easy - in 7 days
   5. Easy - in 14 days
   6. Trivial - in 28 days
-  7. Quit session
+  0. Quit session
 Choose: 
 
 ```
